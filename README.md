@@ -1,0 +1,1 @@
+# sigstore-the-hard-way-dockerized
